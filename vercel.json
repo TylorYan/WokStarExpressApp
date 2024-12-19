@@ -1,16 +1,8 @@
 {
-    "version": 2,
-    "builds": [
-     {
-      "src": "wokstarexpress.json",
-      "use": "@vercel/node",
-      "config": { "includeFiles": ["dist/**"] }
-     }
-    ],
-    "routes": [
-     {
+  "routes": [
+    {
       "src": "/(.*)",
-      "dest": "wokstarexpress.json"
-     }
-    ]
-   }
+      "dest": "/wokstarexpress.json"
+    }
+  ]
+}

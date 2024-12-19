@@ -8,6 +8,15 @@
         "OUR WOKSTAR RESTAURANTS IN THAILAND & VIETNAM",
         "DIRECT ORDER 10%"
       ]
+    },
+    "Order Page": {
+      "monthly_promo_image": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/title.png",
+      "slider_image_one": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_one.png",
+      "slider_image_two": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_two.jpg",
+      "paragraph_one": [
+        "OUR WOKSTAR RESTAURANTS IN THAILAND & VIETNAM",
+        "DIRECT ORDER 10%"
+      ]
     }
   }
 }

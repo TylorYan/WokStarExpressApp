@@ -1,9 +1,9 @@
 {
   "record": {
     "Home Page": {
-      "monthly_promo_image": "https://wokstarexpress.com/wp-content/uploads/2024/12/title.png",
-      "slider_image_one": "http://wokstarexpress.com/wp-content/uploads/2024/12/main_one.png",
-      "slider_image_two": "http://wokstarexpress.com/wp-content/uploads/2024/12/main_two.jpg",
+      "monthly_promo_image": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/title.png",
+      "slider_image_one": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_one.png",
+      "slider_image_two": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_two.jpg",
       "paragraph_one": [
         "OUR WOKSTAR RESTAURANTS IN THAILAND & VIETNAM",
         "DIRECT ORDER 10%"

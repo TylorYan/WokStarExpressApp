@@ -11,10 +11,9 @@
       ]
     },
     "Order Page": {
-      "thailand_title": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/thailand.png",
-      "vietnam_title": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/vietnam.png",
-      "soi_six": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/soi6_bangkok.png",
-      "soi_six_link": "https://www.wokstarexpress.com",
+      "thailand": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/title.png",
+      "soi_six": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_one.png",
+      "soi_six_link": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_two.jpg"
     }
   }
 }

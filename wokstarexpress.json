@@ -12,8 +12,11 @@
     },
     "Order Page": {
       "thailand_title": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/thailand.png",
+      "grab": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/GrabFood.png",
+      "panda": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/FoodPanda.png",
+      "line": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/LineMan.png",
+      "soi_brab_link": "https://wokstarexpress.com",
       "soi_six": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/soi6_bangkok.png",
-      "soi_six_link": "https://wokstarexpress.com",
       "laguna": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/laguna.png",
       "laguna_link": "https://wokstarexpress.com"
     }

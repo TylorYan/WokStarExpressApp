@@ -34,6 +34,28 @@
       "plai_laem_panda_link": "https://wokstarexpress.com",
       "plai_laem_line_link": "https://wokstarexpress.com",
       "plai_laem": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/samui.png"
+    },
+    "Social Page": {
+      "social_title": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/social_title.png",
+      "facebook": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/facebook.png",
+      "instagram": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/instagram.png",
+      "twitter": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/twitter.png",
+      "tiktok": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/tiktok.png",
+      "youtube": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/youtube.png",
+      "line": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/line.png",
+      "soi_grab_link": "https://wokstarexpress.com",
+      "soi_panda_link": "https://wokstarexpress.com",
+      "soi_line_link": "https://wokstarexpress.com",
+      "laguna_grab_link": "https://wokstarexpress.com",
+      "laguna_panda_link": "https://wokstarexpress.com",
+      "laguna_line_link": "https://wokstarexpress.com",
+      "nai_harn_grab_link": "https://wokstarexpress.com",
+      "nai_harn_panda_link": "https://wokstarexpress.com",
+      "nai_harn_line_link": "https://wokstarexpress.com",
+      "plai_laem_grab_link": "https://wokstarexpress.com",
+      "plai_laem_panda_link": "https://wokstarexpress.com",
+      "plai_laem_line_link": "https://wokstarexpress.com",
+      "plai_laem": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/samui.png"
     }
   }
 }

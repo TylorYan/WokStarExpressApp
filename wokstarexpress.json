@@ -1,7 +1,7 @@
 {
   "record": {
     "Notification": {
-      "new_promo": []
+      "new_promo": ["Don't miss time-limited 50% Promotion"]
     },
     "Home Page": {
       "monthly_promo_image": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/title.png",

@@ -19,8 +19,18 @@
       "soi_panda_link": "https://wokstarexpress.com",
       "soi_line_link": "https://wokstarexpress.com",
       "soi_six": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/soi6_bangkok.png",
+      "laguna_grab_link": "https://wokstarexpress.com",
+      "laguna_panda_link": "https://wokstarexpress.com",
+      "laguna_line_link": "https://wokstarexpress.com",
       "laguna": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/laguna.png",
-      "laguna_link": "https://wokstarexpress.com"
+      "nai_harn_grab_link": "https://wokstarexpress.com",
+      "nai_harn_panda_link": "https://wokstarexpress.com",
+      "nai_harn_line_link": "https://wokstarexpress.com",
+      "nai_harn": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/nai_harn.png",
+      "plai_laem_grab_link": "https://wokstarexpress.com",
+      "plai_laem_panda_link": "https://wokstarexpress.com",
+      "plai_laem_line_link": "https://wokstarexpress.com",
+      "plai_laem": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/nai_harn.png"
     }
   }
 }

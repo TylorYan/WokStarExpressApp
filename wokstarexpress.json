@@ -1,5 +1,8 @@
 {
   "record": {
+    "Notification": {
+      "new_promo": []
+    },
     "Home Page": {
       "monthly_promo_image": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/title.png",
       "slider_image_one": "https://raw.githubusercontent.com/TylorYan/WokStarExpressApp/main/main_one.png",
